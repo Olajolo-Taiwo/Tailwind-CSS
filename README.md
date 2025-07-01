@@ -16,6 +16,14 @@ I've organized my learning into separate folders and files for easy reference. H
 - **Modifiers** – Hover, focus, active, dark mode, etc.
 - **Responsive Design** – Using breakpoints like `sm:`, `md:`, `lg:`, `xl:` for mobile-first designs.
 
+## 🎯 Final Project
+
+At the end of this journey, I applied what I learned to build a small responsive website.
+
+###You can view the final project here:
+- **🗂️ GitHub Repository: The Green Muse
+- **🌐 Live View: the-green-muse.vercel.app
+
 ## 📁 Folder Structure
 
 ```bash
@@ -27,3 +35,4 @@ I've organized my learning into separate folders and files for easy reference. H
 ├── borders/
 ├── modifiers/
 └── responsive/
+
