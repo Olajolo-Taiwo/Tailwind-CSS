@@ -10,10 +10,11 @@ I've organized my learning into separate folders and files for easy reference. H
 - **Element Sizing** – Widths, heights, max/min values using Tailwind’s utility classes.
 - **Colors** – Text, background, border colors and how to customize them.
 - **Padding & Margin** – Spacing elements using `p-`, `m-`, `px-`, `py-`, etc.
-- **Typography** – Font sizes, weights, tracking, line height, and alignment.
+- **Typography** – Font sizes, weights, and alignment.
 - **Flexbox** – Layouts using `flex`, `justify-*`, `items-*`, `gap`, etc.
 - **Borders** – Radius, width, color, and style of element borders.
-- **Modifiers** – Hover, focus, active, dark mode, etc.
+- **Other Utility** – Box Shadow, fill, opacity, cursor, etc.
+- **Modifiers** – Hover, focus, placeholder, before, etc.
 - **Responsive Design** – Using breakpoints like `sm:`, `md:`, `lg:`, `xl:` for mobile-first designs.
 
 ## 🎯 Final Project
